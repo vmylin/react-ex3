@@ -1,9 +1,10 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
+import Vehicles from "./Vehicles"; // name them capitalized
 
 class App extends Component {
   render() {
     return (
-      <h1>Hello JSX</h1>
+      <Vehicles /> //call using JSX syntax
     );
   }
 }
