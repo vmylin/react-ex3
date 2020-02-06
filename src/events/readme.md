@@ -1,0 +1,1 @@
+* expression used to tell React how to respond to events triggered by an element.
